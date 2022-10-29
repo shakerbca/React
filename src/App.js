@@ -1,11 +1,11 @@
-import './App.css';
-
-import SubComponent from './components/subComponents';
+import ExpenseItem from './components/ExpenseItem';
 
 function App(){
     return (
-    
-        <SubComponent></SubComponent>
+       <div>
+        <h2>Let's get started</h2>
+        <ExpenseItem></ExpenseItem>
+        </div>
 
         );
 }
