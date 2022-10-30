@@ -4,7 +4,7 @@ function App(){
     let expenses = [
         {
             id: 'e1',
-            title: 'school Fee',
+            title: 'School Fee',
             amount: 250,
             date: new Date(2022, 8, 11)
         },
